@@ -3,6 +3,7 @@ Polytechnic Microprojects
 This repository contains the files and documents for various microprojects that I have completed as part of my polytechnic course. The microprojects cover topics such as assistance bot using IR sensor, MWC flip teach A&S, and EST MP report.
 
 Contents
+
 ASSISTANCE BOT USING IR SENSOR PPT.pptx: A PowerPoint presentation that explains the design and implementation of an assistance bot that uses an infrared sensor to detect obstacles and avoid collisions.
 EST MP REPORTword.docx: A Word document that contains the report for the EST microproject, which involves creating a website using HTML, CSS, and JavaScript.
 MWC FLIP TEACH A&S.pptx: A PowerPoint presentation that summarizes the key concepts and applications of analog and digital signals, modulation, and demodulation for the MWC microproject.
@@ -94,7 +95,6 @@ Principles of Electronic Communications-Built Transmitter and Receiver modules
 -
 VLSI with VHDL-Report of CMOS fabrication process
 -
-Honors & Awards
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
